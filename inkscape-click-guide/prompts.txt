@@ -1,0 +1,25 @@
+Mode: built-in image_gen image editing.
+Sources: user-supplied Inkscape screenshots.
+Edits: numbered red click targets and cropped views for readability.
+
+start
+/tmp/codex-clipboard-cb1657cf-1f43-458d-ab3c-ca97a7246789.png
+Keep the whole 700x640 screenshot. Add a clear red outline around the 'Time to Draw' tab at x265..374,y220..245 and a red numbered circle 1 just above it with a short arrow pointing to that tab. Add a red outline around 'New Document' at bottom right x534..691,y608..633 and a red numbered circle 2 above it with a short arrow. Do not cover the text. No other labels.
+
+save-menu
+/tmp/codex-clipboard-63b329a3-a65b-44eb-a019-096b90a4dc69.png
+Crop to the top-left 700x550 area, retaining the full File menu. Draw a red outline around File at (0,0)-(40,26), mark 1 with a short leader placed out of menu. Draw a red outline around Save As... row y166..191 x22..335, mark 2 in gray empty space right of menu with arrow pointing to this row. Keep original exact menu text. No other labels.
+
+save-dialog
+/tmp/codex-clipboard-e4521155-afe1-4a46-b3f1-497c5d3dccda.png
+Create a tightly cropped screenshot strip showing only the top row of the Save dialog at original coordinates x510..1397 y218..255, with white annotation space below it. Preserve original row exactly, including Cancel, Name, drawing.svg input and Save. Add red outline around filename input and a numbered circle 1 below pointing to input. Add red outline around blue Save button and numbered circle 2 below pointing to Save. Do not include directory listing or any other screenshot content. No other labels; never replace drawing.svg text.
+
+font-menu
+/tmp/codex-clipboard-fc512102-29a9-4eaf-af70-ba08223919b7.png
+Crop top-left original x0..850 y0..380 retaining Text menu. Add red outline around Text at x299..344 y0..26 with numbered circle 1 in gray area pointing to it. Add red outline around first menu item Text and Font... at x300..613 y27..56 with circle 2 to right of menu pointing to the item. All menu text and UI unchanged. No other labels.
+
+font-panel
+/tmp/codex-clipboard-8783b417-8dc0-45e4-be19-68d45816d558.png
+Crop to only right Text and Font panel original coordinates x1457..1865,y65..946. Keep exact panel contents readable. Add thin red outline around the Bold row (original x1669..1853,y261..286), circle 1 with short arrow pointing to Bold without obscuring text. Add thin red outline around bottom Apply button (original x1746..1859,y918..944), circle 2 and short arrow. Put number circles in nearby unused panel whitespace. Keep UI and all original fonts/menu text unchanged. No other labels.
+
+Toolbar correction: use original full screenshot, preserve original icons; mark star at (14,158), text A at (42,238), selector arrow at (14,77).

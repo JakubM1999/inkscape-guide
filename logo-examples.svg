@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620">
+<rect width="960" height="620" fill="#fff"/>
+<g fill="none" stroke="#d8e0e8" stroke-width="2"><rect x="10" y="10" width="300" height="290" rx="18"/><rect x="330" y="10" width="300" height="290" rx="18"/><rect x="650" y="10" width="300" height="290" rx="18"/><rect x="10" y="320" width="300" height="290" rx="18"/><rect x="330" y="320" width="300" height="290" rx="18"/><rect x="650" y="320" width="300" height="290" rx="18"/></g>
+<g fill="#101820" font-family="DejaVu Sans,sans-serif" text-anchor="middle" font-weight="bold">
+<path d="M160 50 L181 107 L242 107 L193 145 L211 203 L160 168 L109 203 L127 145 L78 107 L139 107Z"/><text x="160" y="260" font-size="38">NEISTI</text>
+<circle cx="404" cy="150" r="45"/><text x="536" y="165" font-size="42">RÓ</text>
+<path d="M800 55 L886 190 H714Z"/><text x="800" y="258" font-size="40">FJALL</text>
+<rect x="62" y="374" width="58" height="128" rx="4"/><text x="200" y="456" font-size="36">KUBB</text>
+<circle cx="453" cy="408" r="36"/><circle cx="510" cy="439" r="36"/><circle cx="443" cy="475" r="36"/><text x="480" y="565" font-size="36">BUBBLA</text>
+<rect x="706" y="392" width="188" height="36" rx="18"/><text x="800" y="510" font-size="66">AM</text><text x="800" y="565" font-size="23" font-weight="normal">Upphafsstafir</text>
+</g></svg>
