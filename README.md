@@ -1,8 +1,8 @@
 # Mitt eigið lógó · Inkscape
 
-**Frá einföldu formi og texta að lógói á lok kassa.**
+**Frá einföldu formi og texta að lógói á kassa eða plötu.**
 
-Íslenskar myndaleiðbeiningar fyrir verkefni 14 á starfsbraut Tækniskólans. Nemendur hanna sitt eigið lógó í Inkscape og undirbúa það til áframhaldandi vinnu í öðrum áfanga, þar sem lógóið verður notað á þrívíddarprentuðu loki á kassa.
+Íslenskar myndaleiðbeiningar fyrir verkefni 14 á starfsbraut Tækniskólans. Nemendur hanna sitt eigið lógó í Inkscape og undirbúa það til áframhaldandi vinnu í öðrum áfanga, þar sem lógóið verður notað á kassa eða plötu í verkefni sem tengist þrívíddarprentun.
 
 > Eitt skref í einu. Eigin hugmynd. Eigin lógó.
 
